@@ -2,4 +2,4 @@
 
 ## 效果如下：
 大卫像：
-！[image](https://github.com/severus71/structured_light/blob/main/David/output/1.png)
+![image](https://github.com/severus71/structured_light/blob/main/David/output/1.png)
