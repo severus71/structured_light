@@ -30,7 +30,7 @@
 <img src="https://github.com/severus71/structured_light/blob/main/images/装置.png" width="800" >
 </div>
 
-#### txt文件记录点云信息，6列数据从左到右依次为点云x、y、z坐标和r、g、b参数，可拖拽至cloudcompare软件打开三维点云
+#### txt文件记录点云信息，6列数据从左到右依次为点云x、y、z坐标和r、g、b参数，可使用cloudcompare等三维软件打开
 
 <div align=center>
 <img src="https://github.com/severus71/structured_light/blob/main/txt_format.png" width="375" >
